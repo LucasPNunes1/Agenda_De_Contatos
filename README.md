@@ -41,3 +41,6 @@ Este repositório contém um projeto de lista de contatos desenvolvido em Java u
 
 - Caso queira testar o projeto com o SGBD "PostgreeSQL" é necessário abrir um servidor de banco de dados no "pgAdmin" e alterar as informações do servidor no arquivo "AgendaDeContatosPostgreSQL/src/conexao
 /ConexaoDB.java"
+
+# Imagens
+![Image](https://github.com/user-attachments/assets/8d4ffb29-be59-466f-aa2d-aa0e0142eada)
